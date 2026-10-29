@@ -1,0 +1,15 @@
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\bin\Debug\net10.0\Problema1InteresCompuesto.exe
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\bin\Debug\net10.0\Problema1InteresCompuesto.deps.json
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\bin\Debug\net10.0\Problema1InteresCompuesto.runtimeconfig.json
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\bin\Debug\net10.0\Problema1InteresCompuesto.dll
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\bin\Debug\net10.0\Problema1InteresCompuesto.pdb
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.AssemblyInfoInputs.cache
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.AssemblyInfo.cs
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.csproj.CoreCompileInputs.cache
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.sourcelink.json
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.dll
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\refint\Problema1InteresCompuesto.dll
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.pdb
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\Problema1InteresCompuesto.genruntimeconfig.cache
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema1InteresCompuesto\obj\Debug\net10.0\ref\Problema1InteresCompuesto.dll

@@ -1,0 +1,15 @@
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\bin\Debug\net10.0\Problema2Depreciacion.exe
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\bin\Debug\net10.0\Problema2Depreciacion.deps.json
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\bin\Debug\net10.0\Problema2Depreciacion.runtimeconfig.json
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\bin\Debug\net10.0\Problema2Depreciacion.dll
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\bin\Debug\net10.0\Problema2Depreciacion.pdb
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.AssemblyInfoInputs.cache
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.AssemblyInfo.cs
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.csproj.CoreCompileInputs.cache
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.sourcelink.json
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.dll
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\refint\Problema2Depreciacion.dll
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.pdb
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\Problema2Depreciacion.genruntimeconfig.cache
+C:\Users\G0B3R\source\repos\Practica sobre recursividad\Problema2Depreciacion\obj\Debug\net10.0\ref\Problema2Depreciacion.dll
